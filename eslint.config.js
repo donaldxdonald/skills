@@ -1,3 +1,5 @@
 import { dndxdnd } from '@dndxdnd/eslint-config'
 
-export default dndxdnd()
+export default dndxdnd([], {
+  markdown: true,
+})
