@@ -1,0 +1,28 @@
+{
+  "name": "skills",
+  "version": "0.0.0",
+  "description": "Donald's agent skills",
+  "type": "module",
+  "scripts": {
+    "bump": "bumpp",
+    "prepare": "simple-git-hooks"
+  },
+  "author": "donaldxdonald",
+  "license": "MIT",
+  "devDependencies": {
+    "@dndxdnd/eslint-config": "^2.11.2",
+    "bumpp": "^11.1.0",
+    "eslint": "^10.4.1",
+    "lint-staged": "^17.0.5",
+    "simple-git-hooks": "^2.13.1",
+    "typescript": "^5.9.3"
+  },
+  "simple-git-hooks": {
+    "pre-commit": "npx lint-staged"
+  },
+  "lint-staged": {
+    "src/**/*.{js,ts,md}": [
+      "eslint"
+    ]
+  }
+}
