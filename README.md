@@ -40,6 +40,10 @@ Helps shape brand strategy before visual execution. It focuses on audience, posi
 
 Reviews changed code for reuse, quality, and efficiency, then fixes issues found. It is useful as a cleanup pass after implementation, especially before merging.
 
+### `copy-density-audit`
+
+Copy Density Audit helps agents turn text-heavy, over-explained UI screens into cleaner, action-first interfaces. It reviews visible copy, identifies redundant instructional or marketing text, and suggests concrete replacements such as controls, layout structure, examples, microcopy, and progressive disclosure.
+
 ## Credits
 
 The [`simplify`](./skills/simplify/) skill is adapted from the Claude Code workflow and included here with attribution.

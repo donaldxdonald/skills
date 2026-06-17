@@ -1,0 +1,4 @@
+interface:
+  display_name: "Copy Density Audit"
+  short_description: "Reduce text-heavy AI-generated UI screens"
+  default_prompt: "Use $copy-density-audit to review this UI for excessive visible copy and suggest concrete layout replacements."
