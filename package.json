@@ -1,6 +1,6 @@
 {
   "name": "skills",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Donald's agent skills",
   "type": "module",
   "scripts": {
