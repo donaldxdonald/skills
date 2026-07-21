@@ -1,0 +1,4 @@
+interface:
+  display_name: "Physical Interaction Craft"
+  short_description: "Build and refine fluid, physical interface motion"
+  default_prompt: "Use $craft-physical-interactions to design or improve this interface motion so it feels direct, continuous, velocity-aware, and interruptible."
