@@ -1,0 +1,4 @@
+interface:
+  display_name: "Reconstruct Interface Motion"
+  short_description: "Turn interaction references into reusable motion systems"
+  default_prompt: "Use $reconstruct-interface-motion to analyze this interaction reference and produce an implementation-ready motion specification."
