@@ -44,6 +44,12 @@ Reviews changed code for reuse, quality, and efficiency, then fixes issues found
 
 Copy Density Audit helps agents turn text-heavy, over-explained UI screens into cleaner, action-first interfaces. It reviews visible copy, identifies redundant instructional or marketing text, and suggests concrete replacements such as controls, layout structure, examples, microcopy, and progressive disclosure.
 
+### `steve-jobs-ux-review`
+
+Reviews product flows from a Steve Jobs-inspired perspective. It questions unnecessary steps and automatic behavior, checks feedback and recovery, and recommends concrete improvements. Works with early concepts and existing interfaces.
+
+Example: `Use $steve-jobs-ux-review to review the complete camera, draft, and save flow.`
+
 ## Credits
 
 The [`simplify`](./skills/simplify/) skill is adapted from the Claude Code workflow and included here with attribution.

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Steve Jobs UX review"
+  short_description: "Review user intent, defaults, and the complete UX flow"
+  default_prompt: "Use $steve-jobs-ux-review to review this experience and recommend concrete improvements based on the user's goal and the available evidence."
